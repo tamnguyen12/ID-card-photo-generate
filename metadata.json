@@ -1,0 +1,5 @@
+{
+  "name": "Professional ID Photo Generator",
+  "description": "Upload a selfie and generate a professional ID photo with a blue background and formal attire.",
+  "requestFramePermissions": []
+}
